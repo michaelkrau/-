@@ -1,2 +1,59 @@
-# -
-Create a comprehensive guide in Hebrew for music producers on iPad, with emphasis on producing fitness music and 50-minute sets.   עבורפיטנס שרוצים ליצור מוזיקה מותאמת לשיעורים
+# מדריך יצירת סטי DJ לפיטנס - DJ Set Guide for Fitness
+
+מדריך מקיף בעברית ליצירת סטים מוזיקליים של 50 דקות לשיעורי פיטנס באמצעות iPad.
+
+A comprehensive guide in Hebrew for creating 50-minute DJ sets for fitness classes using iPad.
+
+## 📖 המדריך / The Guide
+
+**[לחץ כאן למדריך המלא בעברית / Click here for the full guide in Hebrew](DJ-SET-GUIDE.md)**
+
+## 🎯 למי המדריך? / Who is this guide for?
+
+- מדריכי פיטנס שרוצים ליצור מוזיקה מותאמת לשיעורים
+- DJ מתחילים שרוצים להתמחות בפיטנס
+- כל מי שרוצה ללמוד ליצור סטים מקצועיים ב-iPad
+
+## 📱 אפליקציות נדרשות / Required Apps
+
+- **djay** (Algoriddim) - מומלץ למתחילים
+- **Rekordbox** (Pioneer DJ) - אלטרנטיבה מקצועית
+
+## ✨ מה כלול במדריך? / What's included?
+
+- ✅ הוראות התקנה והכנה
+- ✅ העברה וארגון מוזיקה
+- ✅ בניית סט שלב אחר שלב
+- ✅ טכניקות מעבר בין שירים
+- ✅ הקלטה וייצוא
+- ✅ פתרון בעיות נפוצות
+- ✅ טיפים מעשיים
+- ✅ צ'ק-ליסטים
+
+## 🎵 מבנה הסט / Set Structure
+
+```
+⏱️ 0-10 דקות: חימום (BPM 120-130)
+⏱️ 10-20 דקות: עלייה (BPM 130-135)
+⏱️ 20-35 דקות: שיא (BPM 135-145)
+⏱️ 35-45 דקות: ירידה (BPM 130-135)
+⏱️ 45-50 דקות: קירור (BPM 120-125)
+```
+
+## 🚀 התחלה מהירה / Quick Start
+
+1. הורד אפליקציית djay או Rekordbox
+2. העבר מוזיקה ל-iPad
+3. צור פלייליסט של 13-16 שירים
+4. עקוב אחרי המדריך המפורט
+
+## 📝 הערות חשובות / Important Notes
+
+- המדריך מתאים לאנשים עם הפרעת קשב (ADHD)
+- כתוב בצורה מינימליסטית וברורה
+- כולל הדרכה שלב אחר שלב
+- מתאים גם למתחילים מוחלטים
+
+---
+
+**בהצלחה! / Good luck! 🎵**
