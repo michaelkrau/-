@@ -1,2 +1,21 @@
-# -
-Create a comprehensive guide in Hebrew for music producers on iPad, with emphasis on producing fitness music and 50-minute sets.   עבורפיטנס שרוצים ליצור מוזיקה מותאמת לשיעורים
+# מדריכים ליצירת מוזיקה לכושר על האייפד
+
+מאגר זה מכיל מדריכים מקיפים בעברית למפיקי מוזיקה על iPad, עם דגש על הפקת מוזיקה לכושר וסטים באורך 50 דקות.
+
+## מדריכים זמינים
+
+### [מדריך Cubasis 3: הכנת סט מוזיקה רציף ל-50 דקות](cubasis-fitness-mix-guide.md)
+מדריך מפורט שלב אחר שלב להכנת סט מוזיקה רציף באורך כ-50 דקות באפליקציית Cubasis 3 על האייפד. הסט מתאים לשיעורי כושר כמו קיקבוקס, ספינינג, HIIT ועוד.
+
+**המדריך כולל:**
+- הכנת חומרים וייבוא שירים
+- יצירת פרויקט והגדרותיו
+- סידור שירים ויצירת מעברים חלקים
+- עריכה ומיקס מקצועי
+- ייצוא וגיבוי
+- טיפים מתקדמים לסוגי שיעורים שונים
+- פתרון בעיות נפוצות
+
+---
+
+*Guide repository for iPad music production in Hebrew, focusing on fitness music and 50-minute sets for workout classes.*
